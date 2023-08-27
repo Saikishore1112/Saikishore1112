@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikishore1112
 - 👀 I’m interested in data structures and algorithms, artificial intelligence and machine learning(AIML)
-- 🌱 I’m currently learning computer science engg with specialisation in AIML at vasavi vollege of engg.
+- 🌱 I’m currently learning computer science engg with specialisation in AIML at vasavi college of engg.
 - 💞️ I’m looking to collaborate on AIML
 - 📫 You can msg me on LinkedIn @Sai Kishore Bagula
 
